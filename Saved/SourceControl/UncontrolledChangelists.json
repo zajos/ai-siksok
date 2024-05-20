@@ -1,0 +1,44 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/GE/0TN8JF3AIND0AIKDGB49QZ.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/LN/VLUGLIUBUJQ64SYFVWLRWT.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/LearningAgents/BP_LearningAgentsManager.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/LearningAgents/BP_Policy.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/LearningAgents/BP_Interactor.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/LearningAgents/BP_Trainer.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/LearningAgents/BP_RaceTrackSpline.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/LearningAgents/NeuralNetwork.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/6N/SY5JF0XHFOWHPYUIIZZ6UZ.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/IK/0OG4BZ8UE70201YQQ9QK5Q.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/8J/34O4ZG5AG7I6SCPL1BC7PK.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/UP/QY3OLB4AZQZDGSMFD09ABW.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/C3/NPP2UTNHEQ4SA3RYULWOK2.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/L4/MKW5FSE7WHV52OYUP4NZF6.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/GX/3JJS3ZUZ6UYB0YPO0MLJN8.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/OZ/XDH9VK4BF53R8TD7BC5SYW.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/PR/PVJMQUZG51QVNEJGQQU3WK.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/R0/W3JW1197V9XXWJ8ISWQ3Y8.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/ZY/QX6EGS2K03TV7KMGQIJB2I.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/PT/0YOFAG4U9Z5M21Y4RG5AK1.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/5A/S5R858CBOD00H4K3413O7A.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/F/4K/QSIYTF3CHP9EMWVSUMS5U3.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/5D/3DQA00N3WJIFYYQ8TIVPKQ.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/TQ/7IK94V2JWIZ1J37FRLRQLI.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/VF/14RUEQWEIE11VRYACHS8OZ.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/5/G7/YONN45BQTFPR2ANXH20F7Z.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/A/BY/M9KPKQG8ONS3MBD43JVIBV.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/O7/93CUYGL8I7NP4TKTTU9LAF.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/SM/V6IAAODPP6N8WKR03H455E.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/4/QO/TODQ4WYPC2UOOXI8QT2W1Q.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/E/4D/Y1H6H1DPI9Y6YGZ2JE7OOP.uasset",
+				"C:/Users/Emre/Desktop/Unreal Egitim/ai/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/9/8Q/87I9YY5986W2X67T2JY8LU.uasset"
+			]
+		}
+	]
+}
